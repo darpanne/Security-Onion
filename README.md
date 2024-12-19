@@ -1,4 +1,4 @@
-# Security Onion and Wireshark
+# Security Onion Wireshark
 
 ## Objective
 The **Security Onion** project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
@@ -6,6 +6,7 @@ The **Security Onion** project aimed to establish a controlled environment for s
 ### Skills Learned
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs using tools like Security Onion.
+- Expertise in capturing and examining network traffic using Wireshark.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
@@ -15,9 +16,7 @@ The **Security Onion** project aimed to establish a controlled environment for s
 - **SGUIL**, **Squert**, **Kibana**, and **Logstash** for log ingestion, analysis, and visualization.
 - Network analysis tools like **Wireshark** for capturing and examining network traffic.
 
-## Work
-
-
+## Security Onion Screenshots
 
 ![Screenshot 2024-10-02 120614](https://github.com/user-attachments/assets/518c4db2-6db0-4cfe-88c1-7f05cf73c40c)
 
@@ -46,3 +45,5 @@ Shows the exploitation phase using Metasploit, including session creation and ex
 ![Screenshot 2024-11-16 132634](https://github.com/user-attachments/assets/fb7e0abf-015a-497b-bbe6-3a9c71c4829f)
 
 Displays detected alerts involving a possible Metasploit Trojan payload, as logged in Squert.
+
+# Wireshark Screenshots
