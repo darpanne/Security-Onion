@@ -47,3 +47,9 @@ Shows the exploitation phase using Metasploit, including session creation and ex
 Displays detected alerts involving a possible Metasploit Trojan payload, as logged in Squert.
 
 # Wireshark Screenshots
+
+![image](https://github.com/user-attachments/assets/a2f46867-fbcc-4971-b3ed-40085b38ea4c)
+
+![Screenshot 2024-12-19 154918](https://github.com/user-attachments/assets/c526b039-19d9-4906-9b62-37b9daab1afd)
+
+
